@@ -234,6 +234,3 @@ Video demo menjelaskan:
 11. Submit jawaban.
 12. Melihat hasil ujian.
 13. Logout.
-# 📜 License
-
-Project ini dibuat untuk keperluan pembelajaran dan tugas akademik.
