@@ -91,15 +91,17 @@ Collation:
 Klik
 ```Create```
 
-## 5. Import Database
-Masuk ke database
-```exam_db_efriza```
-Klik
-```Import```
-Pilih file SQL
-kemudian klik
-```Go```
-Sampai proses import selesai.
+## 5. Inisialisasi Database
+Saat file `db.php` dipanggil untuk pertama kali, sistem akan secara otomatis membuat tabel-tabel yang diperlukan di dalam database apabila tabel tersebut belum tersedia.
+
+Sebelum menjalankan aplikasi, pastikan Anda telah membuat database dengan nama:
+```text
+exam_db_efriza
+```
+Pastikan juga nama database tersebut telah sesuai dengan konfigurasi pada file:
+```text
+config_db.php
+```
 
 # ⚙ Konfigurasi Database
 File konfigurasi berada pada
