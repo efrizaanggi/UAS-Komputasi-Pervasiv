@@ -220,19 +220,3 @@ Pastikan:
 - Database berhasil diimport
 - Folder project berada di dalam htdocs
 Apabila salah satu belum dilakukan, aplikasi tidak dapat dijalankan.
-
-# 📷 Demo
-Video demo menjelaskan:
-1. Menjalankan XAMPP.
-2. Membuka PhpMyAdmin.
-3. Membuat database.
-4. Import database.
-5. Meletakkan project ke folder htdocs.
-6. Menjalankan aplikasi.
-7. Login Admin.
-8. Menambah atau upload soal.
-9. Login Mahasiswa.
-10. Mengerjakan ujian.
-11. Submit jawaban.
-12. Melihat hasil ujian.
-13. Logout.
